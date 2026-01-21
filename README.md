@@ -46,3 +46,13 @@ Excel (data preparation)
 # Outcome
 
 The dashboard enables HR teams to quickly identify workforce trends, monitor attrition, and make informed strategic decisions using interactive visual insights.
+
+## Sales Dashboard – Power BI
+Developed a dynamic Power BI dashboard to analyze company-wide sales performance across regions, product categories, and time periods. Integrated datasets to calculate key metrics like Total Revenue, YoY Growth, Average Sales per Region, and Profit Margins.
+
+Enabled interactive filtering by sales channels, timeframes, and customer segments. Used DAX to create KPIs and measures, allowing real-time strategic insights for decision-makers. Designed a clean, business-friendly layout for senior management to track goals and identify underperforming areas.
+# Skills
+DAX
+Data Analysis 
+Data Visualization
+Microsoft Power BI
